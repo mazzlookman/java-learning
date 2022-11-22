@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tutorial.test.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.039 s - in com.tutorial.test.CalculatorTest

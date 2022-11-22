@@ -1,0 +1,5 @@
+- Comparable, merupakan java generic digunakan untuk :
+Tipe data object sudah auto comparable.
+
+- Comparator, digunakan untuk memberitahu ShortedSet(Java Collection) bagaimana cara mengurutkan datanya.
+.Sebagai alternatif Comparable (untuk class yang tidak bisa implements Comparable)
